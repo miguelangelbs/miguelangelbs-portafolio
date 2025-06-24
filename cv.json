@@ -30,26 +30,18 @@
   "work": [
     {
       "name": "SAICA S.L",
-      "position": "Divulgador sobre Programación Web",
+      "position": "Becario de desarrollo de software",
       "url": "https://www.saicasl.eu/",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Texto Ejemplo"
-    },
-    {
-      "name": "Info Rota",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
+      "startDate": "2024-03-07",
+      "endDate": "2025-06-25",
       "summary": "Texto Ejemplo"
     }
   ],
   "education": [
     {
-      "institution": "Universitat Oberta de Catalunya",
-      "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Ingeniero de Software",
+      "institution": "IES Castillo de Luna",
+      "url": "https://www.iescastillodeluna.es/",
+      "area": "Grado Superior de desarrollo de aplicaciones multiplataforma",
       "studyType": "Bachelor",
       "startDate": "2003-01-01",
       "endDate": "2009-01-01",
@@ -86,70 +78,66 @@
   ],
   "skills": [
     {
-      "name": "HTML",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend"
-      ]
+      "name": "Java"
     },
     {
-      "name": "CSS",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Diseño Responsive"
-      ]
+      "name": "Python"
     },
     {
-      "name": "JavaScript",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
+      "name": "PHP"
     },
     {
-      "name": "TypeScript",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
+      "name": "HTML"
     },
     {
-      "name": "MySQL",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
+      "name": "CSS"
     },
     {
-      "name": "GitHub",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
-        "Git"
-      ]
+      "name": "JavaScript"
     },
     {
-      "name": "CodeIgniter",
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "PHP Framework"
-      ]
+      "name": "TypeScript"
     },
     {
-      "name": "Java",
-      "keywords": [
-        "Desarrollo Web"
-      ]
+      "name": "Docker"
+    },
+    {
+      "name": "CodeIgniter"
+    },
+    {
+      "name": "Ionic"
+    },
+    {
+      "name": "Android Studio"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "MariaDB"
+    },
+    {
+      "name": "GitHub"
+    },
+    {
+      "name": "Neon.tech"
+    },
+    {
+      "name": "Render"
+    },
+    {
+      "name": "Vercel"
+    },
+    {
+      "name": "Spring Boot"
+    },
+    {
+      "name": "Odoo"
     }
+
   ],
   "languages": [
     {
