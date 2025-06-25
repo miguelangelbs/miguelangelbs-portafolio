@@ -4,9 +4,9 @@
     "label": "Desarrollador de aplicaciones multiplataforma con 2 años de experiencia",
     "image": "/fotoPerfil.webp",
     "email": "miguelangelbs.dev@gmail.com",
-    "phone": "+34 688888888",
+    "phone": "+34 692 05 68 17",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "Soy autodidacta, proactivo, resolutivo y adaptable a nuevas tecnologías. Me destaco por el trabajo en equipo, el enfoque en buenas prácticas y el compromiso con soluciones funcionales y escalables. Tengo un interés particular en el desarrollo de aplicaciones móviles, web y multiplataforma, buscando siempre crear productos útiles, bien estructurados y mantenibles.",
     "location": {
       "address": "",
       "postalCode": "11520",
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "Miguel Ángel Bernal Sánchez",
+        "url": "https://www.linkedin.com/in/miguel-%C3%A1ngel-bernal-s%C3%A1nchez-543325371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/miguelangelbs"
+        "username": "miguelangelbs",
+        "url": "https://github.com/miguelangelbs/miguelangelbs"
       }
     ]
   },
@@ -34,7 +34,7 @@
       "url": "https://www.saicasl.eu/",
       "startDate": "2024-03-07",
       "endDate": "2025-06-25",
-      "summary": "Texto Ejemplo"
+      "summary": "Participé en el diseño y desarrollo de APIs utilizando CodeIgniter4, así como en la creación de aplicaciones multiplataforma con Ionic. También me encargué de la gestión y mantenimiento de bases de datos en PostgreSQL. Todo el trabajo se realizó siguiendo metodologías ágiles, permitiendo una planificación y entrega eficiente de los proyectos."
     }
   ],
   "education": [
@@ -43,8 +43,8 @@
       "url": "https://www.iescastillodeluna.es/",
       "area": "Grado Superior de desarrollo de aplicaciones multiplataforma",
       "studyType": "Bachelor",
-      "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
+      "startDate": "2023-08-15",
+      "endDate": "2025-06-25",
       "score": "4.0",
       "courses": [
         "DB1101 - Basic SQL"
@@ -108,7 +108,7 @@
       "name": "Ionic"
     },
     {
-      "name": "Android Studio"
+      "name": "AndroidStudio"
     },
     {
       "name": "PostgreSQL"
@@ -123,16 +123,16 @@
       "name": "GitHub"
     },
     {
-      "name": "Neon.tech"
+      "name": "Vercel"
     },
     {
       "name": "Render"
     },
     {
-      "name": "Vercel"
+      "name": "NeonTech"
     },
     {
-      "name": "Spring Boot"
+      "name": "SpringBoot"
     },
     {
       "name": "Odoo"
@@ -141,12 +141,12 @@
   ],
   "languages": [
     {
-      "language": "Spanish",
-      "fluency": "Native speaker"
+      "language": "Castellano",
+      "fluency": "Nativo"
     },
     {
-      "language": "English",
-      "fluency": "Advanced"
+      "language": "Inglés",
+      "fluency": "Intermedio"
     }
   ],
   "interests": [
@@ -168,10 +168,19 @@
     {
       "name": "VAULT",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Proyecto Final de Grado Superior. Aplicación multiplataforma para la consulta, análisis y preservación de videojuegos. Realizado en Ionic y utilizando una API desarrollada en CodeIgniter.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "TFG",
+        "Multiplataforma",
+        "Android",
+        "Web",
+        "API",
+        "CodeIgniter",
+        "Ionic",
+        "PostgreSQL",
+        "Vercel",
+        "Render",
+        "Neon.tech"
       ],
       "url": "https://vault-umber.vercel.app/home"
     }
