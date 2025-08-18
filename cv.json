@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Miguel Ángel Bernal Sánchez",
-    "label": "Desarrollador de aplicaciones multiplataforma con 2 años de experiencia",
+    "label": "Desarrollador de aplicaciones multiplataforma con 1 año y 4 meses de experiencia",
     "image": "/fotoPerfil.webp",
     "email": "miguelangelbs.dev@gmail.com",
     "phone": "+34 692 05 68 17",
@@ -30,7 +30,7 @@
   "work": [
     {
       "name": "SAICA S.L",
-      "position": "Becario de desarrollo de software",
+      "position": "Desarrollador de software",
       "url": "https://www.saicasl.eu/",
       "startDate": "2024-03-07",
       "endDate": "2025-06-25",
@@ -61,10 +61,10 @@
   ],
   "certificates": [
     {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
+      "name": "Programación Web desde 0 con PHP 8, Mysql, Laravel y Symfony",
+      "date": "2025-08-11",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-f55a1268-8765-45dd-89be-e3bb7b6cc002"
     }
   ],
   "publications": [
