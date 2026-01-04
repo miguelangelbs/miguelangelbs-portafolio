@@ -6,7 +6,7 @@
     "email": "miguelangelbs.dev@gmail.com",
     "phone": "+34 692 05 68 17",
     "url": "https://midu.dev",
-    "summary": "Soy autodidacta, proactivo, resolutivo y adaptable a nuevas tecnologías. Me destaco por el trabajo en equipo, el enfoque en buenas prácticas y el compromiso con soluciones funcionales y escalables. Tengo un interés particular en el desarrollo de aplicaciones móviles, web y multiplataforma, buscando siempre crear productos útiles, bien estructurados y mantenibles.",
+    "summary": "Desarrollador Full Stack PHP con experiencia en Symfony, CodeIgniter, Ionic y PostgreSQL, orientado al desarrollo de aplicaciones web y móviles. Me destaco por trabajo en equipo, buenas prácticas y compromiso con soluciones funcionales y escalables, y soy autodidacta y adaptable, siempre buscando aprender nuevas tecnologías y crear productos bien estructurados y mantenibles.",
     "location": {
       "address": "",
       "postalCode": "11520",
@@ -23,18 +23,18 @@
       {
         "network": "GitHub",
         "username": "miguelangelbs",
-        "url": "https://github.com/miguelangelbs/miguelangelbs"
+        "url": "https://github.com/miguelangelbs"
       }
     ]
   },
   "work": [
     {
       "name": "SAICA S.L",
-      "position": "Desarrollador de software",
+      "position": "Desarrollador Full Stack (Prácticas Formativas – Grado Superior, Oferta Dual)",
       "url": "https://www.saicasl.eu/",
-      "startDate": "2024-03-07",
-      "endDate": "2025-06-25",
-      "summary": "Participé en el diseño y desarrollo de APIs utilizando CodeIgniter4, así como en la creación de aplicaciones multiplataforma con Ionic. También me encargué de la gestión y mantenimiento de bases de datos en PostgreSQL. Todo el trabajo se realizó siguiendo metodologías ágiles, permitiendo una planificación y entrega eficiente de los proyectos."
+      "startDate": "2023-09-15",
+      "endDate": "2025-08-25",
+      "summary": "Diseñé y desarrollé APIs REST con CodeIgniter4 para aplicaciones web y móviles. Implementé aplicaciones híbridas con Ionic, integrando funcionalidades de backend y frontend. Creé y gestioné bases de datos PostgreSQL, optimizando consultas y modelos de datos. Colaboré con el equipo siguiendo metodología ágil, participando en planificación, seguimiento de tareas y entregas en producción."
     }
   ],
   "education": [
