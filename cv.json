@@ -90,13 +90,28 @@
       "name": "PostgreSQL"
     },
     {
+      "name": "Git"
+    },
+    {
       "name": "GitHub"
+    },
+    {
+      "name": "Angular"
+    },
+    {
+      "name": "Symfony"
+    },
+    {
+      "name": "Laravel"
     },
     {
       "name": "Java"
     },
     {
       "name": "Python"
+    },
+    {
+      "name": "Kotlin"
     },
     {
       "name": "HTML"
@@ -114,13 +129,13 @@
       "name": "Docker"
     },
     {
-      "name": "AndroidStudio"
-    },
-    {
       "name": "MySQL"
     },
     {
       "name": "MariaDB"
+    },
+    {
+      "name": "Sqlite"
     },
     {
       "name": "Vercel"
@@ -138,7 +153,19 @@
       "name": "Odoo"
     },
     {
-      "name": "Kotlin"
+      "name": "Postman"
+    },
+    {
+      "name": "Firebase"
+    },
+    {
+      "name": "Wordpress"
+    },
+    {
+      "name": "Joomla"
+    },
+    {
+      "name": "Anaconda"
     }
 
   ],
