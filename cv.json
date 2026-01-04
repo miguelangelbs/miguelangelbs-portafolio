@@ -78,13 +78,25 @@
   ],
   "skills": [
     {
+      "name": "PHP"
+    },
+    {
+      "name": "CodeIgniter"
+    },
+    {
+      "name": "Ionic"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "GitHub"
+    },
+    {
       "name": "Java"
     },
     {
       "name": "Python"
-    },
-    {
-      "name": "PHP"
     },
     {
       "name": "HTML"
@@ -102,25 +114,13 @@
       "name": "Docker"
     },
     {
-      "name": "CodeIgniter"
-    },
-    {
-      "name": "Ionic"
-    },
-    {
       "name": "AndroidStudio"
-    },
-    {
-      "name": "PostgreSQL"
     },
     {
       "name": "MySQL"
     },
     {
       "name": "MariaDB"
-    },
-    {
-      "name": "GitHub"
     },
     {
       "name": "Vercel"
