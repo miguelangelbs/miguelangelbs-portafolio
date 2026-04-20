@@ -200,7 +200,7 @@
       "isActive": true,
       "description": "Proyecto Final de Grado Superior. Aplicación multiplataforma para la consulta, análisis y preservación de videojuegos. Realizado en Ionic y utilizando una API desarrollada en CodeIgniter.",
       "highlights": [
-        "TFG",
+        "PHP",
         "Multiplataforma",
         "Android",
         "Web",
@@ -213,6 +213,20 @@
         "Neontech"
       ],
       "url": "https://vault-umber.vercel.app/home"
+    },
+    {
+      "name": "Notaki",
+      "isActive": true,
+      "description": "Aplicación web de gestión de tareas tipo Kanban construida con React. Permite organizar trabajo en tableros, columnas y tareas con funcionalidad de arrastrar y soltar.",
+      "highlights": [
+        "React",
+        "Drag&Drop",
+        "FrontEnd",
+        "Vite",
+        "Vercel",
+        "Radix UI"
+      ],
+      "url": "https://notaki.vercel.app"
     }
   ]
 }
